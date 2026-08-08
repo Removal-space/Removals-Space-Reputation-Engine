@@ -1,0 +1,21 @@
+site_name: Removals Space Reputation Engine
+site_url: https://removals-space-reputation-engine.readthedocs.io
+site_description: Digital reputation management and online content analysis tool helping individuals, businesses, and digital professionals understand and manage their online visibility.
+site_author: Removals.Space
+
+repo_name: Removal-space/Removals-Space-Reputation-Engine
+repo_url: https://github.com/Removal-space/Removals-Space-Reputation-Engine
+
+theme:
+  name: material
+  palette:
+    primary: red
+    accent: deep-orange
+
+nav:
+  - Home: index.md
+
+markdown_extensions:
+  - tables
+  - toc:
+      permalink: true

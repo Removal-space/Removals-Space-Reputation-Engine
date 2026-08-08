@@ -1,0 +1,37 @@
+{
+  "name": "@removals-space/reputation-engine",
+  "version": "1.0.0",
+  "description": "Removals Space Reputation Engine is a digital reputation management and online content analysis tool designed to help individuals, businesses, and digital professionals better understand and manage their online visibility.",
+  "main": "index.js",
+  "bin": {
+    "removals-engine": "./index.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "removals-space",
+    "reputation-engine",
+    "online-reputation-management",
+    "digital-reputation",
+    "content-removal",
+    "serp-monitoring",
+    "url-analysis",
+    "search-visibility",
+    "orm",
+    "reputation-risk",
+    "content-discovery",
+    "monitoring-coverage"
+  ],
+  "author": "Removals.Space",
+  "license": "MIT",
+  "homepage": "https://removals.space",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Removal-space/Removals-Space-Reputation-Engine"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}

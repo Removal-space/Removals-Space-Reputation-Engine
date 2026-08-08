@@ -1,0 +1,52 @@
+{
+  "title": "Removals Space Reputation Engine",
+  "description": "Removals Space Reputation Engine is a digital reputation management and online content analysis tool designed to help individuals, businesses, and digital professionals better understand and manage their online visibility. Framework: Discover → Analyse → Assess → Resolve → Monitor. Built by Removals.Space.",
+  "creators": [
+    {
+      "name": "Removals.Space"
+    }
+  ],
+  "keywords": [
+    "Removals Space",
+    "Reputation Engine",
+    "Online Reputation Management",
+    "Digital Reputation",
+    "Content Removal",
+    "SERP Monitoring",
+    "URL Analysis",
+    "Search Visibility",
+    "ORM",
+    "Removals.Space"
+  ],
+  "license": "MIT",
+  "upload_type": "software",
+  "access_right": "open",
+  "doi": "10.5281/zenodo.XXXXXXX",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/Removal-space/Removals-Space-Reputation-Engine",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://removals.space",
+      "relation": "isDocumentedBy",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://npmjs.com/package/@removals-space/reputation-engine",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://pypi.org/project/removals-space-reputation-engine",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://huggingface.co/datasets/removals-space/reputation-benchmarks",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}

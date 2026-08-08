@@ -1,0 +1,41 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "removals-space-reputation-engine"
+version = "1.0.0"
+authors = [
+  { name = "Removals.Space", email = "info@removals.space" },
+]
+description = "Removals Space Reputation Engine is a digital reputation management and online content analysis tool designed to help individuals, businesses, and digital professionals better understand and manage their online visibility."
+readme = "README.md"
+license = { file = "LICENSE" }
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Topic :: Internet :: WWW/HTTP",
+    "Topic :: Office/Business",
+]
+keywords = [
+    "removals-space",
+    "reputation-engine",
+    "online-reputation-management",
+    "digital-reputation",
+    "content-removal",
+    "serp-monitoring",
+    "url-analysis",
+    "search-visibility",
+    "orm",
+]
+
+[project.urls]
+Homepage = "https://removals.space"
+GitHub = "https://github.com/Removal-space/Removals-Space-Reputation-Engine"
+Documentation = "https://removals-space-reputation-engine.readthedocs.io"
+PyPI = "https://pypi.org/project/removals-space-reputation-engine"
+
+[project.scripts]
+removals-engine = "reputation_engine:main"

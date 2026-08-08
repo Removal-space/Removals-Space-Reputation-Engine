@@ -1,0 +1,41 @@
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Removals Space Reputation Engine",
+  "description": "A digital reputation management and online content analysis tool designed to help individuals, businesses, and digital professionals better understand and manage their online visibility.",
+  "url": "https://removals.space",
+  "applicationCategory": "BusinessApplication",
+  "operatingSystem": "Any",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  },
+  "author": {
+    "@type": "Organization",
+    "name": "Removals.Space",
+    "url": "https://removals.space",
+    "sameAs": [
+      "https://removals.space",
+      "https://github.com/Removal-space",
+      "https://npmjs.com/package/@removals-space/reputation-engine",
+      "https://pypi.org/project/removals-space-reputation-engine",
+      "https://huggingface.co/datasets/removals-space/reputation-benchmarks",
+      "https://removal-space.github.io/Removals-Space-Reputation-Engine/"
+    ]
+  },
+  "programmingLanguage": ["TypeScript", "Python"],
+  "codeRepository": "https://github.com/Removal-space/Removals-Space-Reputation-Engine",
+  "keywords": [
+    "Removals Space",
+    "Reputation Engine",
+    "Online Reputation Management",
+    "Digital Reputation",
+    "Content Removal",
+    "SERP Monitoring",
+    "URL Analysis",
+    "Search Visibility",
+    "ORM",
+    "Removals.Space"
+  ]
+}
