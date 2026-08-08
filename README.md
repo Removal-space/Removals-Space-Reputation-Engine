@@ -2,7 +2,7 @@
 
 [![npm](https://img.shields.io/npm/v/@removals-space/reputation-engine)](https://npmjs.com/package/@removals-space/reputation-engine)
 [![PyPI](https://img.shields.io/pypi/v/removals-space-reputation-engine)](https://pypi.org/project/removals-space-reputation-engine)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21852955.svg)](https://doi.org/10.5281/zenodo.21852955)
 
 Removals Space Reputation Engine is a digital reputation management and online content analysis tool designed to help individuals, businesses, and digital professionals better understand and manage their online visibility. Built by [Removals.Space](https://removals.space).
 
