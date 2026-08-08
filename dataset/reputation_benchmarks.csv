@@ -1,0 +1,21 @@
+id,profile,profile_type,reputation_risk_score,content_discovery_score,search_visibility_score,url_analysis_score,removal_feasibility_score,monitoring_coverage_score,overall_reputation_index,priority_action,google_search_score,news_media_score,social_platforms_score,review_sites_score,risk_level,notes
+1,Tech Startup Brand,business,88,82,84,78,90,84,84,URL Analysis,84,82,84,78,Low,Strong brand reputation profile
+2,Corporate Executive,executive,85,78,82,74,86,80,81,URL Analysis,82,78,80,74,Low,Executive personal brand
+3,E-commerce Store,business,80,74,78,70,82,76,77,URL Analysis,78,74,76,70,Medium,Review management required
+4,Individual Professional,individual,82,76,80,72,84,78,79,URL Analysis,80,76,78,72,Low-Medium,Personal reputation monitoring
+5,Healthcare Brand,business,90,84,86,80,92,86,86,URL Analysis,86,84,86,80,Low,Strong healthcare reputation
+6,Law Firm,organization,86,80,84,76,88,82,83,URL Analysis,84,80,82,76,Low,Legal brand visibility
+7,Restaurant Chain,business,76,70,74,66,78,72,73,URL Analysis,74,70,72,66,Medium,Review site management
+8,Tech CEO Profile,executive,84,78,82,74,86,80,81,URL Analysis,82,78,80,74,Low-Medium,Tech leader profile
+9,Financial Advisor,professional,82,76,80,72,84,78,79,URL Analysis,80,76,78,72,Low-Medium,Professional credibility
+10,Real Estate Agency,business,80,74,78,70,82,76,77,URL Analysis,78,74,76,70,Medium,Local reputation management
+11,Political Campaign,organization,86,82,84,78,88,84,84,URL Analysis,84,82,84,78,Low,Campaign visibility tracking
+12,University Brand,organization,90,86,88,82,92,88,88,URL Analysis,88,86,88,82,Low,Strong academic reputation
+13,Startup Founder,individual,82,76,80,72,84,78,79,URL Analysis,80,76,78,72,Low-Medium,Founder personal brand
+14,Retail Brand,business,78,72,76,68,80,74,75,URL Analysis,76,72,74,68,Medium,Retail reputation monitoring
+15,Medical Practice,organization,88,82,86,78,90,84,85,URL Analysis,86,82,86,78,Low,Healthcare professional profile
+16,B2B SaaS Company,business,86,80,84,76,88,82,83,URL Analysis,84,80,82,76,Low,SaaS brand reputation
+17,Celebrity Profile,individual,84,80,82,76,86,80,81,URL Analysis,82,80,80,76,Low-Medium,Public figure monitoring
+18,NGO Organization,organization,88,82,86,80,90,84,85,URL Analysis,86,82,86,80,Low,Nonprofit brand reputation
+19,Hotel Brand,business,80,74,78,70,82,76,77,URL Analysis,78,74,76,70,Medium,Hospitality review management
+20,Digital Agency,business,86,80,84,76,88,82,83,URL Analysis,84,80,82,76,Low,Agency reputation profile
