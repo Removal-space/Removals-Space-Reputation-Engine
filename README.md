@@ -146,8 +146,13 @@ Removals Space · Reputation Engine · Online Reputation Management · Digital R
 | NPM | https://npmjs.com/package/@removals-space/reputation-engine |
 | PyPI | https://pypi.org/project/removals-space-reputation-engine |
 | Hugging Face | https://huggingface.co/datasets/removals-space/reputation-benchmarks |
-| Zenodo | https://zenodo.org/records/XXXXXXX |
+| Zenodo | https://zenodo.org/records/21852955 |
 | Docs | https://removals-space-reputation-engine.readthedocs.io |
+| ProvenExpert | https://www.provenexpert.com/removals-space/ |
+| Quora | https://www.quora.com/profile/Removals-Space |
+| Pinterest | https://www.pinterest.com/RemovalsSpace/ |
+| Slideshare | https://www.slideshare.net/slideshow/removal-space-a-guide-to-online-reputation-and-content-removal/289080518 |
+
 
 ## About Removals.Space
 
