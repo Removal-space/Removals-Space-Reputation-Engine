@@ -137,6 +137,11 @@ Removals.Space is a digital reputation management platform helping individuals, 
 | NPM | https://npmjs.com/package/@removals-space/reputation-engine |
 | PyPI | https://pypi.org/project/removals-space-reputation-engine |
 | Hugging Face | https://huggingface.co/datasets/removals-space/reputation-benchmarks |
+| ProvenExpert | https://www.provenexpert.com/removals-space/ |
+| Quora | https://www.quora.com/profile/Removals-Space |
+| Pinterest | https://www.pinterest.com/RemovalsSpace/ |
+| Slide Share |https://www.slideshare.net/slideshow/removal-space-a-guide-to-online-reputation-and-content-removal/289080518| 
+
 
 ---
 
