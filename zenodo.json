@@ -21,7 +21,7 @@
   "license": "MIT",
   "upload_type": "software",
   "access_right": "open",
-  "doi": "10.5281/zenodo.XXXXXXX",
+  "doi": "10.5281/zenodo.21852955",
   "related_identifiers": [
     {
       "identifier": "https://github.com/Removal-space/Removals-Space-Reputation-Engine",
@@ -43,6 +43,31 @@
       "relation": "isSupplementTo",
       "scheme": "url"
     },
+    {
+  "identifier": "https://zenodo.org/records/21852955",
+  "relation": "isIdenticalTo",
+  "scheme": "url"
+},
+{
+  "identifier": "https://www.provenexpert.com/removals-space/",
+  "relation": "isSupplementTo",
+  "scheme": "url"
+},
+{
+  "identifier": "https://www.quora.com/profile/Removals-Space",
+  "relation": "isSupplementTo",
+  "scheme": "url"
+},
+{
+  "identifier": "https://www.pinterest.com/RemovalsSpace/",
+  "relation": "isSupplementTo",
+  "scheme": "url"
+},
+{
+  "identifier": "https://www.slideshare.net/slideshow/removal-space-a-guide-to-online-reputation-and-content-removal/289080518",
+  "relation": "isSupplementTo",
+  "scheme": "url"
+},    
     {
       "identifier": "https://huggingface.co/datasets/removals-space/reputation-benchmarks",
       "relation": "isSupplementTo",
